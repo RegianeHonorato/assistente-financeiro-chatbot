@@ -1,0 +1,4 @@
+Flask>=2.0
+twilio>=7.0
+python-dateutil  # Se você estiver usando relativedelta
+# Adicione quaisquer outras bibliotecas que seu projeto possa precisar

@@ -1,0 +1,18 @@
+# Arquivos e pastas de ambiente do Python
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos de banco de dados
+*.db
+*.sqlite3
+
+# Arquivos de ambiente com senhas e chaves (MUITO IMPORTANTE!)
+.env
+
+# Programas executáveis
+*.exe
+
+# Arquivos de IDEs comuns (boa prática)
+.vscode/
+.idea/
